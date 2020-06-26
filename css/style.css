@@ -439,6 +439,7 @@ button:active{
 
 .inform-text h1{
 	font-size:29px;
+	margin-left:-30px;
 }
 
 .inform-text p:nth-child(1){
